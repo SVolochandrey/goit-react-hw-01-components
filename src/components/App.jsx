@@ -32,7 +32,7 @@ export const App = () => {
 
         <PageTitle title="Friends list"/>
         <FriendsList friends={friends}/>
-        
+
         <PageTitle title="Transactions history"/>
         <TransactionsHistory items={transactions}/>
     </div>

@@ -23,5 +23,5 @@ id: PropTypes.number.isRequired,
 ),
 };
 
-export default FriendsItem;
+export default FriendsList;
 
